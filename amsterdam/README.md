@@ -62,7 +62,6 @@
 - [BeerTemple](https://maps.app.goo.gl/NGcQAEz4FpWo6jtm7) - Another very famous handcraft beer place in Amsterdam;
 - [Foodhallen](https://maps.app.goo.gl/vde2WykgoStfqU8h7) - all sort of foods in one place; It is nice if you want variety. You will find many cuisines in one place;
 
-
 ## Loops
 
 ### Loop 1 - De Pijp -> Amsterdam Central
@@ -71,9 +70,13 @@
 De Pijp and Albert Cuyp Market -> Museum Plein -> Vondelpark -> Leindsplein -> Joordan -> Spui -> Dam Square -> Central Station
 </pre>
 
-When arriving in the Central Station, if it is still early (before 1 PM), you can go and visit NDSN, if is the end of the afternoon, before sunseting, a good idea is to do the boat trip through the canals. You will the city from a different perspective. 
+When arriving in the Central Station, if it is still early (before 1 PM): go visit **NDSM**;  
+If it is end of the afternoon (before sunseting): do the boat trip through the canals;  
+If it is evening already: grab a beer at beer temple and do a walk through the Red Light District;  
 
 ### Loop 2 - Amsterdam Oost -> IJBurg
+
+From the Central Station you can take the tram number `#26` and go to one of the newest areas in Amsterdam: IJBurg. They a literally pumping sand from the bottom of the ocean and expanding the city from scratch. It is a interesting residential area to visit.
 
 ### Loop 3 - Amsterdam Oost -> Muiden (Bike)
 
