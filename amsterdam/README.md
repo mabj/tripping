@@ -29,6 +29,7 @@
 - [Albert Cuyp Market](https://maps.app.goo.gl/6HLwEseDMzMZFVvX8), biggest open market in Amsterdam;
 - [Vondelpark](https://maps.app.goo.gl/GoMvEfao6zhBGd638) - park in the center of Amstedam, it is very famous to be iconic during the 70s, hippie and psycodelic moviment;
 - [Red Light District](https://maps.app.goo.gl/7tbhLR6PGBRxPJMq9) - place with the ladies on the windows; **Be careful with pick pocketing while there**;
+- De Pijp - Old historical Jewish neighborhood in Amsterdam; Good for night life.
 
 ## Museums
 
