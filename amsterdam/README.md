@@ -30,8 +30,8 @@
 - [Vondelpark](https://maps.app.goo.gl/GoMvEfao6zhBGd638) - park in the center of Amstedam, it is very famous to be iconic during the 70s, hippie and psycodelic moviment;
 - [Red Light District](https://maps.app.goo.gl/7tbhLR6PGBRxPJMq9) - place with the ladies on the windows; **Be careful with pick pocketing while there**;
 - [De Pijp](https://maps.app.goo.gl/pSrJ7f8zwBqziQAEA) - Old historical Jewish neighborhood in Amsterdam; Good for night life;
-- [Jordaan](https://maps.app.goo.gl/uiU7hV7WpMyBKrXU7) - one of the oldest neighbohood in Amsterdam;
-- [Leindsplein]
+- [Jordaan](https://maps.app.goo.gl/uiU7hV7WpMyBKrXU7) - One of the oldest neighbohood in Amsterdam;
+- [Leindsplein](https://maps.app.goo.gl/NDGnunks1dzJu6qA6) - Central square in Amsterdam (very busy);
 
 ## Museums
 
