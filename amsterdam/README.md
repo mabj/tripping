@@ -20,6 +20,7 @@
 - Visit [Zaanse Shans](https://maps.app.goo.gl/Cf9ijZFADzPcHfzF9) and [Zaandam](https://maps.app.goo.gl/cnhPQd4xxy4jQ4yE6);
 - [OT301](https://maps.app.goo.gl/NC42fpUBcoqgk3Rh9) - Really cool occupation in Amsterdam with cultural events; Good underground cinema and very cool parties;
 - [Occii](https://maps.app.goo.gl/wamTf6n4YHiZhM399) - Another location to good music/events. It is located in a historical building next to the Vondelpark;
+- [Dampkring Coffeeshop](https://maps.app.goo.gl/5Z3g6pBHR33DcFzYA) - if you want to visit a authentic and chill coffeeshop in Amsterdam;
 
 ## Places to Visit
 
@@ -38,6 +39,7 @@
 - [Spui](https://maps.app.goo.gl/2dFhZfufWLdAbsYX6) - Nice neighbohood full of bars (next to Leidseplein);
 - [Flower Market](https://maps.app.goo.gl/8UqbBsSzquHqtdGU6) - Place to buy souvenirs;
 - [Heineken Experience](https://maps.app.goo.gl/GpVmUJKfbp6qdPPS9) - First Heineken Brewery (nothing special, IMO - but tourists love it!);
+- [Museum Plein](https://maps.app.goo.gl/BSuxS52wdUfSKZh67) - Museum square. Square between Van Gogh and Rijks museums;
 
 ## Museums
 
@@ -53,7 +55,7 @@
 - [Kartika](https://maps.app.goo.gl/6Rea9hZdHHJw1mwj8) - Indonesian food;
 - [Roopram Roti](https://maps.app.goo.gl/fxMoicKLa4wfZjJt9) - Surinamese food;
 - [Moeders](https://maps.app.goo.gl/LQZfTGYFiT8V8Vau7) - Dutch food;
-- [Massimo Gelato](https://maps.app.goo.gl/AkTUowoCkjPH75xZ8) - Best ice-cream you will ever have in your life :D;
+- [Massimo Gelato](https://maps.app.goo.gl/AkTUowoCkjPH75xZ8) - Best ice-cream you will ever try :D;
   - Ask for the [brioche with two scoops](https://tenina.imgix.net/uploads/recipe-images/Lemony-Brioche-with-Gelato-SIcily_2024-11-02-041546_acix.jpg?w=1200&fit=max&auto=compress) (sicilian style);
 - [Cafe de Klos](https://maps.app.goo.gl/WgBY2GudA4Hxx2V28) - American style ribs; 
 - [Proeflokaal Arendsnest](https://maps.app.goo.gl/BRQpMggQpoKQfsZA9) - Best handcraft beer place in Amsterdam;
@@ -64,6 +66,12 @@
 ## Loops
 
 ### Loop 1 - De Pijp -> Amsterdam Central
+
+<pre>
+De Pijp and Albert Cuyp Market -> Museum Plein -> Vondelpark -> Leindsplein -> Joordan -> Spui -> Dam Square -> Central Station
+</pre>
+
+When arriving in the Central Station, if it is still early (before 1 PM), you can go and visit NDSN, if is the end of the afternoon, before sunseting, a good idea is to do the boat trip through the canals. You will the city from a different perspective. 
 
 ### Loop 2 - Amsterdam Oost -> IJBurg
 
