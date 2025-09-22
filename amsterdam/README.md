@@ -34,11 +34,15 @@
 - [De Pijp](https://maps.app.goo.gl/pSrJ7f8zwBqziQAEA) - Old historical Jewish neighborhood in Amsterdam; Good for night life;
 - [Jordaan](https://maps.app.goo.gl/uiU7hV7WpMyBKrXU7) - One of the oldest neighborhoods in Amsterdam;
 - [Leidseplein](https://maps.app.goo.gl/NDGnunks1dzJu6qA6) - Central square in Amsterdam (very busy);
+- [Dam Square](https://maps.app.goo.gl/DHdFLcqA3VTkpNxz9) - Central square in Amsterdam (faces a de Royal Palace - where the king of the Netherlands stays);
+- [Spui](https://maps.app.goo.gl/2dFhZfufWLdAbsYX6) - Nice neighbohood full of bars (next to Leidseplein);
+- [Flower Market](https://maps.app.goo.gl/8UqbBsSzquHqtdGU6) - Place to buy souvenirs;
+- [Heineken Experience](https://maps.app.goo.gl/GpVmUJKfbp6qdPPS9) - First Heineken Brewery (nothing special, IMO - but tourists love it!);
 
 ## Museums
 
-- [Rijksmuseum]() - Huge museum inside a palace in the center of the city;
-- [Van Gogh Museum]() - Museum about the life of Van Gogh (It is VERY trippy, from early drawings to Abysint paintings :D);
+- [Rijksmuseum]() - Huge museum inside a palace in the center of the city; Need to buy ticket with at least one week in advance;
+- [Van Gogh Museum]() - Museum about the life of Van Gogh (It is VERY trippy, from early drawings to Abysint paintings :D); Need to buy ticket with at least one week in advance;
 - [Tropenmuseum](https://maps.app.goo.gl/xxk1Qsq1fGwzGGee7) - very cool anthropological museum next to Oost Park;
 - [Anne Frank Museum](https://maps.app.goo.gl/EmY739wxJ7SiogPh9) - Museum with the history of Anne Frank (from the Anne Frank Diary);
 
@@ -54,6 +58,7 @@
 - [Cafe de Klos](https://maps.app.goo.gl/WgBY2GudA4Hxx2V28) - American style ribs; 
 - [Proeflokaal Arendsnest](https://maps.app.goo.gl/BRQpMggQpoKQfsZA9) - Best handcraft beer place in Amsterdam;
 - [BeerTemple](https://maps.app.goo.gl/NGcQAEz4FpWo6jtm7) - Another very famous handcraft beer place in Amsterdam;
+- [Foodhallen](https://maps.app.goo.gl/vde2WykgoStfqU8h7) - all sort of foods in one place; It is nice if you want variety. You will find many cuisines in one place;
 
 
 ## Loops
