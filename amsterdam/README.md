@@ -12,12 +12,13 @@
 - There are ferry boats connecting the central station to Amsterdam Nood (crossing the IJ river);
 
 ## Things to do
-- Boat trip through the canals;
+
+- Boat trip through the canals - You can get a ticket for 10 EURs and the tour leaves from Central station;
 - Walk from De Pijp -> Amsterdam Central;
 
 ## Places to Visit
 
-- Dappermarkt: Open street marked in Amsterdam Oost;
+- [Dappermarkt](https://maps.app.goo.gl/dZK5ngr1JhJsLp6g6): Open street marked in Amsterdam Oost;
   - While in Dappermarket try some fresh orange juice, and a nice 
 - [JavaStraat](https://maps.app.goo.gl/RCuNxpjA6TVj1SGG8): Trendy street in Amsterdam Oost, full of small bars and restaurants;
 - [Brewery The IJ](https://maps.app.goo.gl/KWfjjkzCSC76qgc79): Traditional brewery located inside a windmill;
