@@ -1,6 +1,6 @@
 # Amsterdam
 
-## Genral Tips
+## General Tips
 
 - Amsterdam is organized in rings ([map](https://www.dutchamsterdam.nl/i/aa/2018/06/amsterdam_map.pdf)). 
 - The main rings are composed by these streets: Singel, Herengracht, Kaizergratcht and Prinsengracht.
