@@ -25,6 +25,8 @@
 - [Brewery The IJ](https://maps.app.goo.gl/KWfjjkzCSC76qgc79): Traditional brewery located inside a windmill;
 - [NDSM](https://maps.app.goo.gl/67vtZcxTU2GZFo1F8) - Industrial area in Amsterdam. You can get there by ferry from the central station (for free);
 - [Albert Cuyp Market](https://maps.app.goo.gl/6HLwEseDMzMZFVvX8), biggest open market in Amsterdam;
+- [Vondelpark](https://maps.app.goo.gl/GoMvEfao6zhBGd638) - park in the center of Amstedam, it is very famous to be iconic during the 70s, hippie and psycodelic moviment;
+- [Red Light District](https://maps.app.goo.gl/7tbhLR6PGBRxPJMq9) - place with the ladies on the windows; **Be careful with pick pocketing while there**;
 
 ## Museums
 
