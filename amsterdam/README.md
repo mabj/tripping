@@ -14,8 +14,9 @@
 ## Things to do
 
 - Boat trip through the canals - You can get a ticket for 10 EURs and the tour leaves from Central station;
-- Walk from De Pijp -> Amsterdam Central;
+- Walk from De Pijp -> Amsterdam Central (see **Loop 1**);
 - Rent a bicycle and experience cycling in Amsterdam like a local (:D);
+- Story Telling night at [Mezrab](https://mezrab.nl/);
 
 ## Places to Visit
 
@@ -48,7 +49,10 @@
 
 ## Loops
 
-### Loop 1
+### Loop 1 - De Pijp -> Amsterdam Central
 
 
-### Loop 2
+### Loop 2 - Amsterdam Oost to IJBurg
+
+
+### Loop 3 - Amsterdam Oost to Muiden (Bike)
