@@ -8,7 +8,7 @@
 - There are trams (surface metro) connecting all neighborhoods to the central station;
 - There is a 24 hours tram ticket (9.50 EUR as of 22nd Sep);
 - You can buy this ticket inside the tram.
-- There are also 3 subway lines (underground).
+- There are also five metro lines (underground).
 - There are ferry boats connecting the central station to Amsterdam Noord (crossing the IJ river);
 
 ## Things to Do
