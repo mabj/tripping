@@ -14,6 +14,8 @@
 - If you decide to visit the city by bicycle;
   - You can carry the bike inside the train if you buy a suplement (~9 EURs);
   - Make sure to lock your bike;
+- The company managing public transportation in Amsterdam is [GVB](https://gvb.nl/);
+- The company managing trains in the Netherlands is [ns.nl](https://www.ns.nl/); 
 
 ## Things to Do
 
