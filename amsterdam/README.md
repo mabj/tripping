@@ -29,7 +29,9 @@
 - [Albert Cuyp Market](https://maps.app.goo.gl/6HLwEseDMzMZFVvX8), biggest open market in Amsterdam;
 - [Vondelpark](https://maps.app.goo.gl/GoMvEfao6zhBGd638) - park in the center of Amstedam, it is very famous to be iconic during the 70s, hippie and psycodelic moviment;
 - [Red Light District](https://maps.app.goo.gl/7tbhLR6PGBRxPJMq9) - place with the ladies on the windows; **Be careful with pick pocketing while there**;
-- De Pijp - Old historical Jewish neighborhood in Amsterdam; Good for night life.
+- [De Pijp](https://maps.app.goo.gl/pSrJ7f8zwBqziQAEA) - Old historical Jewish neighborhood in Amsterdam; Good for night life;
+- [Jordaan](https://maps.app.goo.gl/uiU7hV7WpMyBKrXU7) - one of the oldest neighbohood in Amsterdam;
+- [Leindsplein]
 
 ## Museums
 
@@ -47,6 +49,7 @@
 - [Moeders](https://maps.app.goo.gl/LQZfTGYFiT8V8Vau7) - Dutch food;
 - [Massimo Gelato](https://maps.app.goo.gl/AkTUowoCkjPH75xZ8) - Best ice-cream you will ever have in your life :D;
   - Ask for the [brioche with two scoops](https://tenina.imgix.net/uploads/recipe-images/Lemony-Brioche-with-Gelato-SIcily_2024-11-02-041546_acix.jpg?w=1200&fit=max&auto=compress) (sicilian style);
+- [Cafe de Klos](https://maps.app.goo.gl/WgBY2GudA4Hxx2V28) - American style ribs; 
 
 
 ## Loops
