@@ -71,9 +71,9 @@ De Pijp and Albert Cuyp Market -> Museum Plein -> Vondelpark -> Leindsplein -> J
 </pre>
 
 When arriving in the Central Station: 
-- If it is still early (before 1 PM): go visit **NDSM**;  
-- If it is end of the afternoon (before sunseting): do the boat trip through the canals;  
-- If it is evening already: grab a beer at beer temple and do a walk through the Red Light District;  
+- If it is still early (before 1 PM) - go visit **NDSM**;  
+- If it is end of the afternoon (before sunseting) - do the boat trip through the canals;  
+- If it is evening already - grab a beer at BeerTemple and do a walk through the Red Light District;  
 
 ### Loop 2 - Amsterdam Oost -> IJBurg
 
