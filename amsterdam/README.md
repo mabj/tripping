@@ -103,9 +103,11 @@ This is the best route:
 https://maps.app.goo.gl/5jsJeViwqr2kWJ2w6
 </pre>
 
-### Loop 5 - Amsterdam  -> Dungerdam (Bike - 20km - full-loop)
+### Loop 5 - Amsterdam  -> Durgerdam (Bike - 20km - full-loop)
 
-Very beautiful fishing vilage just besides Amsterdam.
+Durgerdam is a very [beautiful fishing vilage](https://maps.app.goo.gl/nTegZnYDWUt58QBQ7) just besides Amsterdam.
+
+Here is the best route:
 
 <pre>
 https://maps.app.goo.gl/tj4ojtJJNbKpefZo7
