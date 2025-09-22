@@ -41,8 +41,6 @@
 
 - Try Idonesian and Surinamese food - these countries are ex-dutch colonies. Amsterdam is the place to try this kind of food;
 - Try fresh stroopwafel and Poffertjes - You can find these two in the open markets;
-- Try Dutch food;
-
 - [Kartika](https://maps.app.goo.gl/6Rea9hZdHHJw1mwj8) - Indonesian food;
 - [Roopram Roti](https://maps.app.goo.gl/fxMoicKLa4wfZjJt9) - Surinamese food;
 - [Moeders](https://maps.app.goo.gl/LQZfTGYFiT8V8Vau7) - Dutch food;
