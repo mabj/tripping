@@ -2,14 +2,17 @@
 
 ## General Tips
 
-- Amsterdam is organized in rings ([map](https://www.dutchamsterdam.nl/i/aa/2018/06/amsterdam_map.pdf)). 
-- The main rings are composed by these streets: Singel, Herengracht, Keizersgracht and Prinsengracht.
+- Amsterdam is organized in rings ([map](https://www.dutchamsterdam.nl/i/aa/2018/06/amsterdam_map.pdf));
+- The main rings are composed by these streets: Singel, Herengracht, Keizersgracht and Prinsengracht;
 - The center of the rings is Amsterdam Central (train station);
 - There are trams (surface metro) connecting all neighborhoods to the central station;
 - There is a 24 hours tram ticket (9.50 EUR as of 22nd Sep);
-- You can buy this ticket inside the tram.
-- There are also five metro lines (underground).
+- You can buy this ticket inside the tram;
+- There are also five metro lines (underground);
 - There are ferry boats connecting the central station to Amsterdam Noord (crossing the IJ river);
+- If you decide to visit the city by bicycle;
+  - You can carry the bike inside the train if you buy a suplement (~9 EURs);
+  - Make sure to lock your bike;
 
 ## Things to Do
 
