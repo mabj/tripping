@@ -10,7 +10,7 @@
 - You can buy this ticket inside the tram;
 - There are also five metro lines (underground);
 - There are ferry boats connecting the central station to Amsterdam Noord (crossing the IJ river);
-  - All Ferry Boats leaving the central station are free.
+  - All Ferry Boats leaving the central station are free of charge (you can also carry your bicycle inside).
 - If you decide to visit the city by bicycle;
   - You can carry the bike inside the train if you buy a suplement (~9 EURs);
   - Make sure to lock your bike;
