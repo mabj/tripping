@@ -45,6 +45,8 @@
 - [Kartika](https://maps.app.goo.gl/6Rea9hZdHHJw1mwj8) - Indonesian food;
 - [Roopram Roti](https://maps.app.goo.gl/fxMoicKLa4wfZjJt9) - Surinamese food;
 - [Moeders](https://maps.app.goo.gl/LQZfTGYFiT8V8Vau7) - Dutch food;
+- [Massimo Gelato](https://maps.app.goo.gl/AkTUowoCkjPH75xZ8) - Best ice-cream you will ever have in your life :D;
+  - Ask for the [brioche with two scoops](https://tenina.imgix.net/uploads/recipe-images/Lemony-Brioche-with-Gelato-SIcily_2024-11-02-041546_acix.jpg?w=1200&fit=max&auto=compress) (sicilian style);
 
 
 ## Loops
