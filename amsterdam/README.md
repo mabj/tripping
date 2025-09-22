@@ -79,6 +79,34 @@ When arriving in the Central Station:
 
 From the Central Station you can take the tram number `#26` and go to one of the newest areas in Amsterdam: IJBurg. They a literally pumping sand from the bottom of the ocean and expanding the city from scratch. It is a interesting residential area to visit.
 
-### Loop 3 - Amsterdam Oost -> Muiden (Bike)
+### Loop 3 - Amsterdam Oost -> Muiden (Bike - 13km - one-way)
 
-### Loop 4 - Amsterdam Central -> Zaanse Schans (Bike)
+A nice adventure is to cycle from Amsterdam to a neighboring city called Muiden. There is a small 13th-century castle ([Muiden Castle](https://maps.app.goo.gl/S9MyAwNug5iSYoJ48)) and a bunch of small restaurants and bars. It is a very pleasant ride.  
+
+<pre>
+https://maps.app.goo.gl/XLU4KbbzuSKr8Nhq5
+</pre>
+
+
+### Loop 4 - Amsterdam -> Zaanse Schans (Bike - 19km - one-way)
+
+You can do this trip the easy way and the less-easy way. 
+
+- Easy way: Take a train at the Central Station to Zaanse Schans station. On the way back take another train to Zaandam Central.
+- less-easy way: rent a bicycle and go from Amsterdam to Zaanse Schans cycling. I find the route to there more beautiful than the end destination :D. 
+
+You can return to Amsterdam by train (and carry the bike inside the train: 9EURs).
+
+This is the best route:
+
+<pre>
+https://maps.app.goo.gl/5jsJeViwqr2kWJ2w6
+</pre>
+
+### Loop 5 - Amsterdam  -> Dungerdam (Bike - 20km - full-loop)
+
+Very beautiful fishing vilage just besides Amsterdam.
+
+<pre>
+https://maps.app.goo.gl/tj4ojtJJNbKpefZo7
+</pre>
