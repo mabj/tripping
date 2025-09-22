@@ -11,7 +11,7 @@
 - There are also 3 subways lines (undergrounds).
 - There are ferry boats connecting the central station to Amsterdam Nood (crossing the IJ river);
 
-## Things to do
+## Things to Do
 
 - Boat trip through the canals - You can get a ticket for 10 EURs and the tour leaves from Central station;
 - Walk from De Pijp -> Amsterdam Central (see **Loop 1**);
