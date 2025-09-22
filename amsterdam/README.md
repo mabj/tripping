@@ -18,6 +18,8 @@
 - Rent a bicycle and experience cycling in Amsterdam like a local (:D);
 - Story Telling night at [Mezrab](https://mezrab.nl/);
 - Visit [Zaanse Shans](https://maps.app.goo.gl/Cf9ijZFADzPcHfzF9) and [Zaandam](https://maps.app.goo.gl/cnhPQd4xxy4jQ4yE6);
+- [OT301](https://maps.app.goo.gl/NC42fpUBcoqgk3Rh9) - Really cool occupation in Amsterdam with cultural events; Good underground cinema and very cool parties;
+- [Occii](https://maps.app.goo.gl/wamTf6n4YHiZhM399) - Another location to good music/events. It is located in a historical building next to the Vondelpark;
 
 ## Places to Visit
 
@@ -50,6 +52,8 @@
 - [Massimo Gelato](https://maps.app.goo.gl/AkTUowoCkjPH75xZ8) - Best ice-cream you will ever have in your life :D;
   - Ask for the [brioche with two scoops](https://tenina.imgix.net/uploads/recipe-images/Lemony-Brioche-with-Gelato-SIcily_2024-11-02-041546_acix.jpg?w=1200&fit=max&auto=compress) (sicilian style);
 - [Cafe de Klos](https://maps.app.goo.gl/WgBY2GudA4Hxx2V28) - American style ribs; 
+- [Proeflokaal Arendsnest](https://maps.app.goo.gl/BRQpMggQpoKQfsZA9) - Best handcraft beer place in Amsterdam;
+- [BeerTemple](https://maps.app.goo.gl/NGcQAEz4FpWo6jtm7) - Another very famous handcraft beer place in Amsterdam;
 
 
 ## Loops
