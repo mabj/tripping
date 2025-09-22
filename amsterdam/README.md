@@ -24,6 +24,7 @@
 - [OT301](https://maps.app.goo.gl/NC42fpUBcoqgk3Rh9) - Really cool occupation in Amsterdam with cultural events; Good underground cinema and very cool parties;
 - [Occii](https://maps.app.goo.gl/wamTf6n4YHiZhM399) - Another location to good music/events. It is located in a historical building next to the Vondelpark;
 - [Dampkring Coffeeshop](https://maps.app.goo.gl/5Z3g6pBHR33DcFzYA) - if you want to visit a authentic and chill coffeeshop in Amsterdam;
+- [Monk Bouldering Gym](https://maps.app.goo.gl/AEcPpfo8dj7BXWfy9) - If you feeling like exercising, Monk is a very cool bouldering with an amazing view to the city and a nice bar area to have a drink, remote work and socialize.
 
 ## Places to Visit
 
@@ -96,7 +97,7 @@ https://maps.app.goo.gl/XLU4KbbzuSKr8Nhq5
 You can do this trip the easy way and the less-easy way. 
 
 - Easy way: Take a train at the Central Station to Zaanse Schans station. On the way back take another train to Zaandam Central.
-- less-easy way: rent a bicycle and go from Amsterdam to Zaanse Schans cycling. I find the route to there more beautiful than the end destination :D. 
+- Less-easy way: rent a bicycle and go from Amsterdam to Zaanse Schans cycling. I find the route to there more beautiful than the end destination :D. 
 
 You can return to Amsterdam by train (and carry the bike inside the train: 9EURs).
 
