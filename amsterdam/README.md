@@ -10,6 +10,7 @@
 - You can buy this ticket inside the tram;
 - There are also five metro lines (underground);
 - There are ferry boats connecting the central station to Amsterdam Noord (crossing the IJ river);
+  - All Ferry Boats leaving the central station are free.
 - If you decide to visit the city by bicycle;
   - You can carry the bike inside the train if you buy a suplement (~9 EURs);
   - Make sure to lock your bike;
@@ -65,6 +66,7 @@
 - [Proeflokaal Arendsnest](https://maps.app.goo.gl/BRQpMggQpoKQfsZA9) - Best handcraft beer place in Amsterdam;
 - [BeerTemple](https://maps.app.goo.gl/NGcQAEz4FpWo6jtm7) - Another very famous handcraft beer place in Amsterdam;
 - [Foodhallen](https://maps.app.goo.gl/vde2WykgoStfqU8h7) - all sort of foods in one place; It is nice if you want variety. You will find many cuisines in one place;
+- [Cafe de Ceuvel](https://maps.app.goo.gl/YAyvYXNTchogFeh46) - Nice natural/healthy/organic food restaurant in Amsterdam Noord;
 
 ## Loops
 
