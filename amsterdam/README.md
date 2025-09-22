@@ -17,7 +17,7 @@
 - Walk from De Pijp -> Amsterdam Central (see **Loop 1**);
 - Rent a bicycle and experience cycling in Amsterdam like a local (:D);
 - Story Telling night at [Mezrab](https://mezrab.nl/);
-- Visit [Zaanse Shans](https://maps.app.goo.gl/Cf9ijZFADzPcHfzF9);
+- Visit [Zaanse Shans](https://maps.app.goo.gl/Cf9ijZFADzPcHfzF9) and [Zaandam](https://maps.app.goo.gl/cnhPQd4xxy4jQ4yE6);
 
 ## Places to Visit
 
@@ -50,8 +50,8 @@
 
 ### Loop 1 - De Pijp -> Amsterdam Central
 
-### Loop 2 - Amsterdam Oost to IJBurg
+### Loop 2 - Amsterdam Oost -> IJBurg
 
-### Loop 3 - Amsterdam Oost to Muiden (Bike)
+### Loop 3 - Amsterdam Oost -> Muiden (Bike)
 
-### Loop 4 - Amsterdam Central to Zaanse Schans (Bike)
+### Loop 4 - Amsterdam Central -> Zaanse Schans (Bike)
