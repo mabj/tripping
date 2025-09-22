@@ -33,6 +33,7 @@
 - [Rijksmuseum]() - Huge museum inside a palace in the center of the city;
 - [Van Gogh Museum]() - Museum about the life of Van Gogh (It is VERY trippy, from early drawings to Abysint paintings :D);
 - [Troppem Museum](https://maps.app.goo.gl/xxk1Qsq1fGwzGGee7) - very cool antropological museum next to Oost Park;
+- [Anne Frank Museum](https://maps.app.goo.gl/EmY739wxJ7SiogPh9) - Museum with the history of Anne Frank (from the Anne Frank Diary);
 
 ## Places to Eat
 
