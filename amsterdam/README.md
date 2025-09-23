@@ -69,6 +69,7 @@
 - [BeerTemple](https://maps.app.goo.gl/NGcQAEz4FpWo6jtm7) - Another very famous handcraft beer place in Amsterdam;
 - [Foodhallen](https://maps.app.goo.gl/vde2WykgoStfqU8h7) - all sort of foods in one place; It is nice if you want variety. You will find many cuisines in one place;
 - [Cafe de Ceuvel](https://maps.app.goo.gl/YAyvYXNTchogFeh46) - Nice natural/healthy/organic food restaurant in Amsterdam Noord;
+- [Eatmosfera](https://maps.app.goo.gl/KfGZtw3V5LNBtpYY8) - Good sourdough italian pizza in Amsterdam Oost;
 
 ## Loops
 
