@@ -70,7 +70,7 @@
 - [Foodhallen](https://maps.app.goo.gl/vde2WykgoStfqU8h7) - all sort of foods in one place; It is nice if you want variety. You will find many cuisines in one place;
 - [Cafe de Ceuvel](https://maps.app.goo.gl/YAyvYXNTchogFeh46) - Nice natural/healthy/organic food restaurant in Amsterdam Noord;
 - [Eatmosfera](https://maps.app.goo.gl/KfGZtw3V5LNBtpYY8) - Good sourdough italian pizza in Amsterdam Oost;
-- [Tigris En Eufraat](https://maps.app.goo.gl/XQr5cPLBVixaMTTa8) - Delicious Syrian supermarket which also seels food to go (good chicken/lamb/halumi wraps, falafels etc);
+- [Tigris En Eufraat](https://maps.app.goo.gl/XQr5cPLBVixaMTTa8) - Syrian supermarket that also sells food to go (good chicken/lamb/halumi wraps, falafels etc);
 
 ## Loops
 
