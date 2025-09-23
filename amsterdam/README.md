@@ -2,17 +2,17 @@
 
 ## General Tips
 
-- Amsterdam is organized in rings ([map](https://www.dutchamsterdam.nl/i/aa/2018/06/amsterdam_map.pdf));
-- The main rings are composed by these streets: Singel, Herengracht, Keizersgracht and Prinsengracht;
+- Amsterdam is organized into rings ([map](https://www.dutchamsterdam.nl/i/aa/2018/06/amsterdam_map.pdf));
+- The main rings are composed of these streets: Singel, Herengracht, Keizersgracht and Prinsengracht;
 - The center of the rings is Amsterdam Central (train station);
 - There are trams (surface metro) connecting all neighborhoods to the central station;
-- There is a 24 hours tram ticket (9.50 EUR as of 22nd Sep);
+- There is a 24-hour tram ticket (9.50 EUR as of 22nd Sep);
 - You can buy this ticket inside the tram;
 - There are also five metro lines (underground);
 - There are ferry boats connecting the central station to Amsterdam Noord (crossing the IJ river);
   - All Ferry Boats leaving the central station are free of charge (you can also carry your bicycle inside).
 - If you decide to visit the city by bicycle;
-  - You can carry the bike inside the train if you buy a suplement (~9 EURs);
+  - You can carry the bike inside the train if you buy a supplement (~9 EURs);
   - Make sure to lock your bike;
 - The company managing public transportation in Amsterdam is [GVB](https://gvb.nl/);
 - The company managing trains in the Netherlands is [ns.nl](https://www.ns.nl/); 
@@ -24,10 +24,10 @@
 - Rent a bicycle and experience cycling in Amsterdam like a local (:D);
 - Story Telling night at [Mezrab](https://mezrab.nl/);
 - Visit [Zaanse Shans](https://maps.app.goo.gl/Cf9ijZFADzPcHfzF9) and [Zaandam](https://maps.app.goo.gl/cnhPQd4xxy4jQ4yE6);
-- [OT301](https://maps.app.goo.gl/NC42fpUBcoqgk3Rh9) - Really cool occupation in Amsterdam with cultural events; Good underground cinema and very cool parties;
+- [OT301](https://maps.app.goo.gl/NC42fpUBcoqgk3Rh9) - Really cool occupation in Amsterdam with cultural events; A good underground cinema and very cool parties;
 - [Occii](https://maps.app.goo.gl/wamTf6n4YHiZhM399) - Another location to good music/events. It is located in a historical building next to the Vondelpark;
 - [Dampkring Coffeeshop](https://maps.app.goo.gl/5Z3g6pBHR33DcFzYA) - if you want to visit a authentic and chill coffeeshop in Amsterdam;
-- [Monk Bouldering Gym](https://maps.app.goo.gl/AEcPpfo8dj7BXWfy9) - If you feeling like exercising, Monk is a very cool bouldering with an amazing view to the city and a nice bar area to have a drink, remote work and socialize.
+- [Monk Bouldering Gym](https://maps.app.goo.gl/AEcPpfo8dj7BXWfy9) - If you feel like exercising, Monk is a very cool bouldering gym with an amazing view to the city and a nice bar area to have a drink, remote work and socialize.
 
 ## Places to Visit
 
@@ -42,8 +42,8 @@
 - [De Pijp](https://maps.app.goo.gl/pSrJ7f8zwBqziQAEA) - Old historical Jewish neighborhood in Amsterdam; Good for night life;
 - [Jordaan](https://maps.app.goo.gl/uiU7hV7WpMyBKrXU7) - One of the oldest neighborhoods in Amsterdam;
 - [Leidseplein](https://maps.app.goo.gl/NDGnunks1dzJu6qA6) - Central square in Amsterdam (very busy);
-- [Dam Square](https://maps.app.goo.gl/DHdFLcqA3VTkpNxz9) - Central square in Amsterdam (faces a de Royal Palace - where the king of the Netherlands stays);
-- [Spui](https://maps.app.goo.gl/2dFhZfufWLdAbsYX6) - Nice neighbohood full of bars (next to Leidseplein);
+- [Dam Square](https://maps.app.goo.gl/DHdFLcqA3VTkpNxz9) - Central square in Amsterdam (faces the Royal Palace - where the king of the Netherlands stays);
+- [Spui](https://maps.app.goo.gl/2dFhZfufWLdAbsYX6) - Nice neighborhood full of bars (next to Leidseplein);
 - [Flower Market](https://maps.app.goo.gl/8UqbBsSzquHqtdGU6) - Place to buy souvenirs;
 - [Heineken Experience](https://maps.app.goo.gl/GpVmUJKfbp6qdPPS9) - First Heineken Brewery (nothing special, IMO - but tourists love it!);
 - [Museum Plein](https://maps.app.goo.gl/BSuxS52wdUfSKZh67) - Museum square. Square between Van Gogh and Rijks museums;
@@ -75,7 +75,7 @@
 ### Loop 1 - De Pijp -> Amsterdam Central
 
 <pre>
-De Pijp and Albert Cuyp Market -> Museum Plein -> Vondelpark -> Leindsplein -> Joordan -> Spui -> Dam Square -> Central Station
+De Pijp and Albert Cuyp Market -> Museum Plein -> Vondelpark -> Leidseplein -> Jordaan -> Spui -> Dam Square -> Central Station
 </pre>
 
 When arriving in the Central Station: 
@@ -85,7 +85,7 @@ When arriving in the Central Station:
 
 ### Loop 2 - Amsterdam Oost -> IJBurg
 
-From the Central Station you can take the tram number `#26` and go to one of the newest areas in Amsterdam: IJBurg. They a literally pumping sand from the bottom of the ocean and expanding the city from scratch. It is a interesting residential area to visit.
+From the Central Station you can take the tram number `#26` and go to one of the newest areas in Amsterdam: IJBurg. They are literally pumping sand from the bottom of the ocean and expanding the city from scratch. It is an interesting residential area to visit.
 
 ### Loop 3 - Amsterdam Oost -> Muiden (Bike - 13km - one-way)
 
@@ -113,7 +113,7 @@ https://maps.app.goo.gl/5jsJeViwqr2kWJ2w6
 
 ### Loop 5 - Amsterdam  -> Durgerdam (Bike - 20km - full-loop)
 
-Durgerdam is a very [beautiful fishing vilage](https://maps.app.goo.gl/nTegZnYDWUt58QBQ7) just besides Amsterdam.
+Durgerdam is a very [beautiful fishing village](https://maps.app.goo.gl/nTegZnYDWUt58QBQ7) just besides Amsterdam.
 
 Here is the best route:
 
