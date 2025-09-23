@@ -25,7 +25,7 @@
 - Story Telling night at [Mezrab](https://mezrab.nl/);
 - Visit [Zaanse Shans](https://maps.app.goo.gl/Cf9ijZFADzPcHfzF9) and [Zaandam](https://maps.app.goo.gl/cnhPQd4xxy4jQ4yE6);
 - [OT301](https://maps.app.goo.gl/NC42fpUBcoqgk3Rh9) - Really cool occupation in Amsterdam with cultural events; A good underground cinema and very cool parties;
-- [Occii](https://maps.app.goo.gl/wamTf6n4YHiZhM399) - Another location to good music/events. It is located in a historical building next to the Vondelpark;
+- [Occii](https://maps.app.goo.gl/wamTf6n4YHiZhM399) - Good music and events. It is located in a historical building next to the Vondelpark;
 - [Dampkring Coffeeshop](https://maps.app.goo.gl/5Z3g6pBHR33DcFzYA) - if you want to visit a authentic and chill coffeeshop in Amsterdam;
 - [Monk Bouldering Gym](https://maps.app.goo.gl/AEcPpfo8dj7BXWfy9) - If you feel like exercising, Monk is a very cool bouldering gym with an amazing view to the city and a nice bar area to have a drink, remote work and socialize.
 
