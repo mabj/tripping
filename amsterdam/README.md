@@ -108,7 +108,6 @@ You can do this trip the easy way and the less-easy way.
 You can return to Amsterdam by train (and carry the bike inside the train: 9EURs).
 
 This is the best route:
-
 <pre>
 https://maps.app.goo.gl/5jsJeViwqr2kWJ2w6
 </pre>
@@ -118,7 +117,6 @@ https://maps.app.goo.gl/5jsJeViwqr2kWJ2w6
 Durgerdam is a very [beautiful fishing village](https://maps.app.goo.gl/nTegZnYDWUt58QBQ7) just besides Amsterdam.
 
 Here is the best route:
-
 <pre>
 https://maps.app.goo.gl/tj4ojtJJNbKpefZo7
 </pre>
