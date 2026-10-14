@@ -42,20 +42,33 @@
 - Basilica di San Pietro
 - Arch of Constantine
 - Gianicolo Belvedere
+- Terme di Caracalla
 
 ## Museums
 
-- Vatican Museum (all-in-one museum);
+- Vatican Museum (all-in-one);
 - Galleria Borghese;
 
 ## Places to Eat
 
-- 
+- La Montecarlo
+- Osteria Palmira
+- Osteria dal 1931
+- Pizzeria Formula 1
+- Pizza e Arrosticini
+- Osteria A Piedi Pari
+- Luciano Cusina Italiana
 
 ## Loops
 
-### Loop 1 - 
+### Loop 1 - Colisseum -> Vatican
 
 <pre>
+Colisseum -> Foro Romano -> Monumento a Vittorio Emanuele II -> Fontana di Treve -> Pantheon -> Piazza Navona -> Castel Sant'Angelo -> Vatican -> Piazza San Pietro
+</pre>
 
+### Loop 2 - Piazza di Spagna -> Fontana dell'Acqua Paola
+
+<pre>
+Piazza di Spagna -> Fontana dell'Acqua Paola
 </pre>
