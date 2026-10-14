@@ -51,13 +51,13 @@
 
 ## Places to Eat
 
-- [La Montecarlo](https://maps.app.goo.gl/7X9mvVaPRYPthVmV8) (Piazza Navona/Centre)
-- [Osteria Palmira](https://maps.app.goo.gl/mvfH4sJ2YGjhnwsRA) (Monteverde)
-- [Osteria dal 1931](https://maps.app.goo.gl/XUqLPMMoNCaAXtRJ6) (Monteverde)
-- [Pizza e Arrosticini](https://maps.app.goo.gl/kWKfRc3MTxibrBCDA) (Montevede)
-- [Pizzeria Formula 1](https://maps.app.goo.gl/yaKrhzaDKTZH5i7fA) (Tirbutino/Centre)
-- [Osteria A Piedi Pari](https://maps.app.goo.gl/o6tnHtPC7rpm12id6) (Tirbutino/Centre)
-- [Luciano Cusina Italiana](https://maps.app.goo.gl/nLcrHSr6octs6Tfa9) (Piazza del Teatro Pompeo/Centre)
+- [La Montecarlo](https://maps.app.goo.gl/7X9mvVaPRYPthVmV8) (Piazza Navona/Centre) - best place to have a pitstop for lunching when doing Loop 1. It is CLOSED on Mondays;
+- [Osteria Palmira](https://maps.app.goo.gl/mvfH4sJ2YGjhnwsRA) (Monteverde) - Very good restaurant! The owner used to live in Brazil and met Lula in person;
+- [Osteria dal 1931](https://maps.app.goo.gl/XUqLPMMoNCaAXtRJ6) (Monteverde) - Very good restaurant.
+- [Pizza e Arrosticini](https://maps.app.goo.gl/kWKfRc3MTxibrBCDA) (Montevede) - Amazing Pizza in the Monteverde area;
+- [Pizzeria Formula 1](https://maps.app.goo.gl/yaKrhzaDKTZH5i7fA) (Tirbutino/Centre) -  Best cost-benefit authentic roman pizza in Rome (quite non-touristic also)
+- [Osteria A Piedi Pari](https://maps.app.goo.gl/o6tnHtPC7rpm12id6) (Tirbutino/Centre) - Best Carbonara and Osobuco in Rome;
+- [Luciano Cusina Italiana](https://maps.app.goo.gl/nLcrHSr6octs6Tfa9) (Piazza del Teatro Pompeo/Centre) - Michelan Star level pasta;
 
 ## Loops
 
