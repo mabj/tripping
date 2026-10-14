@@ -2,7 +2,8 @@
 
 ## General Tips
 
-- You will need to book in advance and buy the ticket online if you want to visit the Vatican Museum (and avoid long lines);
+- You will need to book in advance and [buy the ticket online](https://www.museivaticani.va/content/museivaticani/en.html) if you want to visit the Vatican Museum (and avoid long lines);
+- The same thing to get inside the Coliseum. You will need to [buy the ticket](https://colosseo-roma.it/en) in advance and online;
 - Watch out for pick-pocketing! Especially in the city center (Vatican, Coliseum, Trevi Fountain, Piazza Navona etc);
 - Avoid driving in Rome - you can reach all the main tourist attractions on foot, by metro or by bus;
 - Rome has 3 metro lines (A, B and C). A standard single travel ticket costs €1,50, it lasts for 100 minutes and it is also valid for buses;
@@ -46,7 +47,7 @@
 
 ## Museums
 
-- Vatican Museum (all-in-one) - Remember to buy the ticket online;
+- Vatican Museum (all-in-one) - Remember to [buy the ticket online](https://www.museivaticani.va/content/museivaticani/en.html);
 - Galleria Borghese;
 
 ## Places to Eat
