@@ -69,7 +69,7 @@ Colisseum -> Foro Romano -> Monumento a Vittorio Emanuele II -> Fontana di Treve
 
 ### Loop 2 - Piazza di Spagna -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
 
-This loop has some elevation. Maybe better to take a bus from Castel Sant'Angelo to Fontana dell'Acqua Paola.
+This loop has some elevation. Maybe better to take a bus from Castel Sant'Angelo to Fontana dell'Acqua Paola and another one to Villa Doria Pamphili. Spend time exploring Villa Doria Pamphili, it is a beautiful green area with Roman ruins and beautiful and iconic Roman Pine trees.
 
 <pre>
 Piazza di Spagna -> Palazzo Borghese -> Castel Sant'Angelo -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
