@@ -67,8 +67,10 @@
 Colisseum -> Foro Romano -> Monumento a Vittorio Emanuele II -> Fontana di Treve -> Pantheon -> Piazza Navona -> Castel Sant'Angelo -> Vatican -> Piazza San Pietro
 </pre>
 
-### Loop 2 - Piazza di Spagna -> Fontana dell'Acqua Paola
+### Loop 2 - Piazza di Spagna -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
+
+This loop has some elevation. Maybe better to take a bus from Castel Sant'Angelo to Fontana dell'Acqua Paola.
 
 <pre>
-Piazza di Spagna -> Fontana dell'Acqua Paola
+Piazza di Spagna -> Palazzo Borghese -> Castel Sant'Angelo -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
 </pre>
