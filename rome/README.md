@@ -46,7 +46,7 @@
 
 ## Museums
 
-- Vatican Museum (all-in-one);
+- Vatican Museum (all-in-one) - Remember to buy the ticket online;
 - Galleria Borghese;
 
 ## Places to Eat
