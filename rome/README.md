@@ -3,11 +3,11 @@
 ## General Tips
 
 - You will need to book in advance and buy the ticket online if you want to visit the Vatican Museum (and avoid long lines);
-- Watch out for pick-pocketing! Specially in the city center (Vatican, Coliseum, Trevi Fountain, Piazza Navona etc);
-- Avoid to drive in Rome - you can do all main touristic attractions by foot, metro or by bus;
-- Rome has 3 metro lines (A, B and C). Stadard single travel ticket costs €1,50, it lasts for 100 minutes and it is also valid for busses;
-- Avoid places to eat around main touristic attactions (coliseum, vaticano etc);
-- If travelling during summer (June, July and Aug) bring sun blocker and sun glasses, it can get really hot;
+- Watch out for pick-pocketing! Especially in the city center (Vatican, Coliseum, Trevi Fountain, Piazza Navona etc);
+- Avoid driving in Rome - you can reach all the main tourist attractions on foot, by metro or by bus;
+- Rome has 3 metro lines (A, B and C). A standard single travel ticket costs €1,50, it lasts for 100 minutes and it is also valid for buses;
+- Avoid places to eat around the main tourist attractions (Coliseum, Vatican etc);
+- If travelling during summer (June, July and Aug), bring sunblock and sunglasses, as it can get really hot;
 - Book your accommodation on places outside the city center (e.g. Monteverde, Ostiense, Testaccio, Gianicolense);
 
 ## Things to Do
@@ -22,27 +22,27 @@
 
 ## Places to Visit
 
-- Coliseum
-- Vatican
-- Vatican Museum
-- Patheon
-- Foro Romano
-- Sant'Angelo Castel
-- Piazza Navona
-- Piazza di Spagna
-- Piazza Venezia
-- Circo Massimo
-- Monument to Victor Emmanuel II
-- Piazza del Campidoglio
-- Villa Doria Pamphili
-- Mercato di Porta Portese (huge street market)
-- Fontana di Trevi
-- Scalinata di Trinità dei Monti
-- Fontana della Barcaccia
-- Basilica di San Pietro
-- Arch of Constantine
-- Gianicolo Belvedere
-- Terme di Caracalla
+- [Coliseum](https://www.google.com/maps/search/?api=1&query=Colosseum%2C%20Rome)
+- [Vatican](https://www.google.com/maps/search/?api=1&query=Vatican%20City)
+- [Vatican Museum](https://www.google.com/maps/search/?api=1&query=Vatican%20Museums%2C%20Rome)
+- [Pantheon](https://www.google.com/maps/search/?api=1&query=Pantheon%2C%20Rome)
+- [Foro Romano](https://www.google.com/maps/search/?api=1&query=Roman%20Forum%2C%20Rome)
+- [Castel Sant'Angelo](https://www.google.com/maps/search/?api=1&query=Castel%20Sant%27Angelo%2C%20Rome)
+- [Piazza Navona](https://www.google.com/maps/search/?api=1&query=Piazza%20Navona%2C%20Rome)
+- [Piazza di Spagna](https://www.google.com/maps/search/?api=1&query=Piazza%20di%20Spagna%2C%20Rome)
+- [Piazza Venezia](https://www.google.com/maps/search/?api=1&query=Piazza%20Venezia%2C%20Rome)
+- [Circo Massimo](https://www.google.com/maps/search/?api=1&query=Circo%20Massimo%2C%20Rome)
+- [Monument to Victor Emmanuel II](https://www.google.com/maps/search/?api=1&query=Altare%20della%20Patria%2C%20Rome)
+- [Piazza del Campidoglio](https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Campidoglio%2C%20Rome)
+- [Villa Doria Pamphili](https://www.google.com/maps/search/?api=1&query=Villa%20Doria%20Pamphili%2C%20Rome)
+- [Mercato di Porta Portese](https://www.google.com/maps/search/?api=1&query=Mercato%20di%20Porta%20Portese%2C%20Rome) (huge street market)
+- [Fontana di Trevi](https://www.google.com/maps/search/?api=1&query=Trevi%20Fountain%2C%20Rome)
+- [Scalinata di Trinità dei Monti](https://www.google.com/maps/search/?api=1&query=Spanish%20Steps%2C%20Rome)
+- [Fontana della Barcaccia](https://www.google.com/maps/search/?api=1&query=Fontana%20della%20Barcaccia%2C%20Rome)
+- [Basilica di San Pietro](https://www.google.com/maps/search/?api=1&query=St.%20Peter%27s%20Basilica%2C%20Vatican%20City)
+- [Arch of Constantine](https://www.google.com/maps/search/?api=1&query=Arch%20of%20Constantine%2C%20Rome)
+- [Gianicolo Belvedere](https://www.google.com/maps/search/?api=1&query=Gianicolo%20Terrace%2C%20Rome)
+- [Terme di Caracalla](https://www.google.com/maps/search/?api=1&query=Baths%20of%20Caracalla%2C%20Rome)
 
 ## Museums
 
@@ -54,17 +54,17 @@
 - [La Montecarlo](https://maps.app.goo.gl/7X9mvVaPRYPthVmV8) (Piazza Navona/Centre) - best place to have a pitstop for lunching when doing Loop 1. It is CLOSED on Mondays;
 - [Osteria Palmira](https://maps.app.goo.gl/mvfH4sJ2YGjhnwsRA) (Monteverde) - Very good restaurant! The owner used to live in Brazil and met Lula in person;
 - [Osteria dal 1931](https://maps.app.goo.gl/XUqLPMMoNCaAXtRJ6) (Monteverde) - Very good restaurant.
-- [Pizza e Arrosticini](https://maps.app.goo.gl/kWKfRc3MTxibrBCDA) (Montevede) - Amazing Pizza in the Monteverde area;
-- [Pizzeria Formula 1](https://maps.app.goo.gl/yaKrhzaDKTZH5i7fA) (Tirbutino/Centre) -  Best cost-benefit authentic roman pizza in Rome (quite non-touristic also)
-- [Osteria A Piedi Pari](https://maps.app.goo.gl/o6tnHtPC7rpm12id6) (Tirbutino/Centre) - Best Carbonara and Osobuco in Rome;
-- [Luciano Cusina Italiana](https://maps.app.goo.gl/nLcrHSr6octs6Tfa9) (Piazza del Teatro Pompeo/Centre) - Michelan Star level pasta;
+- [Pizza e Arrosticini](https://maps.app.goo.gl/kWKfRc3MTxibrBCDA) (Monteverde) - Amazing Pizza in the Monteverde area;
+- [Pizzeria Formula 1](https://maps.app.goo.gl/yaKrhzaDKTZH5i7fA) (Tiburtino/Centre) - Best cost-benefit authentic roman pizza in Rome (quite non-touristic also);
+- [Osteria A Piedi Pari](https://maps.app.goo.gl/o6tnHtPC7rpm12id6) (Tiburtino/Centre) - Best Carbonara and Osobuco in Rome;
+- [Luciano Cucina Italiana](https://maps.app.goo.gl/nLcrHSr6octs6Tfa9) (Piazza del Teatro Pompeo/Centre) - Michelin Star level pasta;
 
 ## Loops
 
-### Loop 1 - Colisseum -> Vatican
+### Loop 1 - Coliseum -> Vatican
 
 <pre>
-Colisseum -> Foro Romano -> Monumento a Vittorio Emanuele II -> Fontana di Treve -> Pantheon -> Piazza Navona -> Castel Sant'Angelo -> Vatican -> Piazza San Pietro
+Coliseum -> Foro Romano -> Monumento a Vittorio Emanuele II -> Fontana di Trevi -> Pantheon -> Piazza Navona -> Castel Sant'Angelo -> Vatican -> Piazza San Pietro
 </pre>
 
 ### Loop 2 - Piazza di Spagna -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
