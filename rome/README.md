@@ -18,6 +18,7 @@
 - Nightlife and cocktail bar in Pigneto;
 - Visit the Vatican Museum, Basilica di San Pietro and check it out the Creation of Adam inside the Sistine Chapel (and all Michelangelo's);
 - Check a nice sunset view of the city from the Gianicolo Belvedere;
+- Climbing the stairs up to Piazza del Campidoglio
 
 ## Places to Visit
 
@@ -32,6 +33,7 @@
 - Piazza Venezia
 - Circo Massimo
 - Monument to Victor Emmanuel II
+- Piazza del Campidoglio
 - Villa Doria Pamphili
 - Mercato di Porta Portese (huge street market)
 - Fontana di Trevi
