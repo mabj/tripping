@@ -51,13 +51,13 @@
 
 ## Places to Eat
 
-- La Montecarlo
-- Osteria Palmira
-- Osteria dal 1931
-- Pizzeria Formula 1
-- Pizza e Arrosticini
-- Osteria A Piedi Pari
-- Luciano Cusina Italiana
+- [La Montecarlo](https://maps.app.goo.gl/7X9mvVaPRYPthVmV8) (Piazza Navona/Centre)
+- [Osteria Palmira](https://maps.app.goo.gl/mvfH4sJ2YGjhnwsRA) (Monteverde)
+- [Osteria dal 1931](https://maps.app.goo.gl/XUqLPMMoNCaAXtRJ6) (Monteverde)
+- [Pizza e Arrosticini](https://maps.app.goo.gl/kWKfRc3MTxibrBCDA) (Montevede)
+- [Pizzeria Formula 1](https://maps.app.goo.gl/yaKrhzaDKTZH5i7fA) (Tirbutino/Centre)
+- [Osteria A Piedi Pari](https://maps.app.goo.gl/o6tnHtPC7rpm12id6) (Tirbutino/Centre)
+- [Luciano Cusina Italiana](https://maps.app.goo.gl/nLcrHSr6octs6Tfa9) (Piazza del Teatro Pompeo/Centre)
 
 ## Loops
 
