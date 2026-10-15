@@ -18,9 +18,9 @@
 - Walk around the margins of River Tiber;
 - Visit the main fountains in Rome (Fontana di Trevi, Fontana dei Quattro Fiumi, Fontanone del Gianicolo, Fontana del Nettuno, Fontana del Tritone, Fontana del Moro, Fontana della Barcaccia);
 - Nightlife and cocktail bar in Pigneto;
-- Visit the Vatican Museum, Basilica di San Pietro and check it out the Creation of Adam inside the Sistine Chapel (and all Michelangelo's);
+- Visit the Vatican Museum, Basilica di San Pietro and check out the Creation of Adam inside the Sistine Chapel (and all Michelangelo's);
 - Check a nice sunset view of the city from the Gianicolo Belvedere;
-- Climbing the stairs up to Piazza del Campidoglio
+- Climb the stairs up to Piazza del Campidoglio;
 
 ## Places to Visit
 
