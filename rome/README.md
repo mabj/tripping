@@ -79,7 +79,7 @@ https://maps.app.goo.gl/i6aVgXs8rq8xTMBX8
 This loop has some elevation. Maybe better to take a bus from Castel Sant'Angelo to Fontana dell'Acqua Paola and another one to Villa Doria Pamphili. Spend time exploring Villa Doria Pamphili, it is a beautiful green area with Roman ruins and beautiful and iconic Roman Pine trees.
 
 ```[text]
-Piazza di Spagna -> Palazzo Borghese -> Castel Sant'Angelo -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
+Piazza di Spagna -> Palazzo Borghese -> Castel Sant'Angelo -> Villa Farnesina -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
 ```
 
 Here is a link to the best route linking these points:
