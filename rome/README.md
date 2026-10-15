@@ -62,16 +62,28 @@
 
 ## Loops
 
-### Loop 1 - Coliseum -> Vatican
+### Loop 1 - Coliseum -> Vatican (7 km)
 
-<pre>
+```[text]
 Coliseum -> Foro Romano -> Monumento a Vittorio Emanuele II -> Fontana di Trevi -> Pantheon -> Piazza Navona -> Castel Sant'Angelo -> Vatican -> Piazza San Pietro
-</pre>
+```
 
-### Loop 2 - Piazza di Spagna -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
+Here is a link to the best route linking these points:
+
+```[text]
+https://maps.app.goo.gl/i6aVgXs8rq8xTMBX8
+```
+
+### Loop 2 - Piazza di Spagna -> Fontana dell'Acqua Paola -> Villa Doria Pamphili (6.2 km)
 
 This loop has some elevation. Maybe better to take a bus from Castel Sant'Angelo to Fontana dell'Acqua Paola and another one to Villa Doria Pamphili. Spend time exploring Villa Doria Pamphili, it is a beautiful green area with Roman ruins and beautiful and iconic Roman Pine trees.
 
-<pre>
+```[text]
 Piazza di Spagna -> Palazzo Borghese -> Castel Sant'Angelo -> Fontana dell'Acqua Paola -> Villa Doria Pamphili
-</pre>
+```
+
+Here is a link to the best route linking these points:
+
+```[text]
+https://maps.app.goo.gl/VzWq3JXC9DDx2wwt6
+```
