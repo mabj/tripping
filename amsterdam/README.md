@@ -76,11 +76,12 @@
 
 ### Loop 1 - De Pijp -> Amsterdam Central
 
-<pre>
+```[text]
 De Pijp and Albert Cuyp Market -> Museum Plein -> Vondelpark -> Leidseplein -> Jordaan -> Spui -> Dam Square -> Central Station
-</pre>
+```
 
-When arriving in the Central Station: 
+When arriving in the Central Station:
+
 - If it is still early (before 1 PM) - go visit **NDSM**;  
 - If it is end of the afternoon (before sunseting) - do the boat trip through the canals;  
 - If it is evening already - grab a beer at BeerTemple and do a walk through the Red Light District;  
@@ -93,10 +94,9 @@ From the Central Station you can take the tram number `#26` and go to one of the
 
 A nice adventure is to cycle from Amsterdam to a neighboring city called Muiden. There is a small 13th-century castle ([Muiden Castle](https://maps.app.goo.gl/S9MyAwNug5iSYoJ48)) and a bunch of small restaurants and bars. It is a very pleasant ride.  
 
-<pre>
+```[text]
 https://maps.app.goo.gl/XLU4KbbzuSKr8Nhq5
-</pre>
-
+```
 
 ### Loop 4 - Amsterdam -> Zaanse Schans (Bike - 19km - one-way)
 
@@ -108,15 +108,17 @@ You can do this trip the easy way and the less-easy way.
 You can return to Amsterdam by train (and carry the bike inside the train: 9EURs).
 
 This is the best route:
-<pre>
+
+```[text]
 https://maps.app.goo.gl/5jsJeViwqr2kWJ2w6
-</pre>
+```
 
 ### Loop 5 - Amsterdam  -> Durgerdam (Bike - 20km - full-loop)
 
 Durgerdam is a very [beautiful fishing village](https://maps.app.goo.gl/nTegZnYDWUt58QBQ7) just besides Amsterdam.
 
 Here is the best route:
-<pre>
+
+```[text]
 https://maps.app.goo.gl/tj4ojtJJNbKpefZo7
-</pre>
+```
