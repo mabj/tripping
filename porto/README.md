@@ -16,6 +16,7 @@
 - Walk a city tour around Porto's old town;
 - Go for street food and a pub crawl in the evening;
 - Have lunch at Mercado Beira-Rio, with lots of local and international options;
+- Rent a bike in Vila Nova de Gaia and ride the coastal route south from Gaia to Valadares and Miramar (a 10-20 km trip, depending on how far you go and whether you ride back). There is good infrastructure along the way (dedicated cycle path and boardwalk sections by the sea) and the route passes a lot of beautiful beaches, such as [Praia de Lavadores](https://www.google.com/maps/search/?api=1&query=Praia%20de%20Lavadores%2C%20Vila%20Nova%20de%20Gaia), [Praia dos Salgueiros](https://www.google.com/maps/search/?api=1&query=Praia%20dos%20Salgueiros%2C%20Vila%20Nova%20de%20Gaia) and [Praia da Sereia da Costa Verde](https://www.google.com/maps/search/?api=1&query=Praia%20da%20Sereia%20da%20Costa%20Verde%2C%20Valadares). The ride ends at the [Capela do Senhor da Pedra](https://www.google.com/maps/search/?api=1&query=Capela%20do%20Senhor%20da%20Pedra%2C%20Miramar), a small chapel built on the rocks right on the beach, a great spot to stop before heading back;
 
 ## Places to Visit
 
@@ -25,6 +26,10 @@
 - [Matosinhos Sul](https://www.google.com/maps/search/?api=1&query=Matosinhos%20Sul%2C%20Matosinhos) (beach area, Metro stop "Matosinhos Sul")
 - [Anémona Monument](https://www.google.com/maps/search/?api=1&query=Anemona%20She%20Changes%2C%20Matosinhos) (large net sculpture by the Matosinhos seafront)
 - [Mercado Municipal de Matosinhos](https://www.google.com/maps/search/?api=1&query=Mercado%20Municipal%20de%20Matosinhos%2C%20Matosinhos)
+- [Praia de Lavadores](https://www.google.com/maps/search/?api=1&query=Praia%20de%20Lavadores%2C%20Vila%20Nova%20de%20Gaia) (Vila Nova de Gaia, on the Gaia-Valadares cycle route)
+- [Praia dos Salgueiros](https://www.google.com/maps/search/?api=1&query=Praia%20dos%20Salgueiros%2C%20Vila%20Nova%20de%20Gaia) (Vila Nova de Gaia, on the Gaia-Valadares cycle route)
+- [Praia da Sereia da Costa Verde](https://www.google.com/maps/search/?api=1&query=Praia%20da%20Sereia%20da%20Costa%20Verde%2C%20Valadares) (Valadares, southern end of the cycle route)
+- [Capela do Senhor da Pedra](https://www.google.com/maps/search/?api=1&query=Capela%20do%20Senhor%20da%20Pedra%2C%20Miramar) (Miramar, end of the Gaia-Valadares cycle route - a chapel standing on the rocks on the beach)
 
 ## Museums
 
