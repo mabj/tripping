@@ -50,6 +50,15 @@
 - [Tito 2](https://www.google.com/maps/search/?api=1&query=Tito%202%2C%20Matosinhos) (Matosinhos) - Amazing place for proper seafood, especially octopus and grilled sardines;
 - [Os Lusíadas](https://www.google.com/maps/search/?api=1&query=Os%20Lus%C3%ADadas%2C%20Matosinhos) (Matosinhos) - Amazing place for proper seafood, especially octopus and grilled sardines;
 
+### Where to Eat Francesinha
+
+- [Café Santiago](https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Santiago%2C%20Porto) (Rua de Passos Manuel, city centre) - The classic, old-school choice, often with a queue. Best with a cold Super Bock;
+- [Cervejaria Brasão](https://www.google.com/maps/search/?api=1&query=Cervejaria%20Bras%C3%A3o%2C%20Porto) (several locations, e.g. Coliseu and Aliados) - More modern and trendy, nicely decorated and with very good service;
+- [Capa Negra II](https://www.google.com/maps/search/?api=1&query=Capa%20Negra%20II%2C%20Porto) (Rua do Campo Alegre) - A long-standing favourite among locals;
+- [Francesinha Café](https://www.google.com/maps/search/?api=1&query=Francesinha%20Caf%C3%A9%2C%20Porto) (Rua da Alegria) - A bit away from the tourist area, consistently rated as one of the best in the city;
+- [O Afonso](https://www.google.com/maps/search/?api=1&query=O%20Afonso%20francesinha%2C%20Porto) (Rua da Torrinha) - Small and traditional, made famous by an Anthony Bourdain visit;
+- [Casanova](https://www.google.com/maps/search/?api=1&query=Casanova%20restaurante%2C%20Porto) - The best option for a vegetarian or vegan francesinha;
+
 ## Loops
 
 ### Loop 1 - 
