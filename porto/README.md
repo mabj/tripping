@@ -35,6 +35,12 @@
 
 - Ferreira Vintage Museum (inside Caves Ferreira) - Part of the "Porto Vintage Visit" tour, which ends with a tasting of four Ferreira Vintages in the Sala dos Azulejos, decorated with traditional Portuguese blue tiles;
 
+## Food to Try
+
+- Francesinha - Porto's signature sandwich: bread, cured meats and steak covered in melted cheese and a hot beer-and-tomato sauce, usually served with fries;
+- Tripas à moda do Porto (tripe stew with white beans) - the most traditional dish of the city, and the reason why people from Porto are nicknamed "tripeiros";
+- "Cachorrinho" - the Portuguese variation of a hot dog: sausage in thin crispy bread, pressed and grilled, cut into small pieces and served with a spicy sauce;
+
 ## Places to Eat
 
 - [Taberninha do Manel](https://maps.app.goo.gl/JUNsNDhs3oTXsLp87) - Local cuisine;
