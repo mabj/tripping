@@ -59,7 +59,6 @@
 - [Capa Negra II](https://www.google.com/maps/search/?api=1&query=Capa%20Negra%20II%2C%20Porto) (Rua do Campo Alegre) - A long-standing favourite among locals;
 - [Francesinha Café](https://www.google.com/maps/search/?api=1&query=Francesinha%20Caf%C3%A9%2C%20Porto) (Rua da Alegria) - A bit away from the tourist area, consistently rated as one of the best in the city;
 - [O Afonso](https://www.google.com/maps/search/?api=1&query=O%20Afonso%20francesinha%2C%20Porto) (Rua da Torrinha) - Small and traditional, made famous by an Anthony Bourdain visit;
-- [Casanova](https://www.google.com/maps/search/?api=1&query=Casanova%20restaurante%2C%20Porto) - The best option for a vegetarian or vegan francesinha;
 
 ### Where to Eat Cachorrinho
 
