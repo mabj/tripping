@@ -64,7 +64,6 @@
 ### Where to Eat Cachorrinho
 
 - [Gazela Cachorrinhos da Batalha](https://www.google.com/maps/search/?api=1&query=Gazela%20Cachorrinhos%20da%20Batalha%2C%20Porto) (Travessa do Cimo de Vila 4, near Praça da Batalha) - Open since 1962 and widely considered the birthplace of the cachorrinho. Small, always busy, cash preferred and lunch is the best time to go. There is a second house a couple of minutes away if the counter is full;
-- Cachorrinhos are a classic snack-bar and cervejaria item, so the small places around Praça da Batalha and Baixa usually serve them too - order one with a cold beer as a snack rather than a full meal;
 
 ## Loops
 
