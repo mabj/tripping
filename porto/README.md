@@ -10,6 +10,7 @@
 ## Things to Do
 
 - Do a Port wine tasting in one of the historic cellars in Gaia (e.g. Ferreira, active since 1751);
+- Do the "PORTO VINTAGE VISIT" tour at [Caves Ferreira](https://www.google.com/maps/search/?api=1&query=Caves%20Ferreira%2C%20Vila%20Nova%20de%20Gaia) in Gaia (€55, 1h30) - highly recommended: a guided visit through the historic cellars and the Ferreira Vintage Museum, ending with a tasting of four Ferreira Vintages in the Sala dos Azulejos;
 - Cross the historic [Ponte Luís I](https://www.google.com/maps/search/?api=1&query=Ponte%20Lu%C3%ADs%20I%2C%20Porto) bridge on foot between Porto and Vila Nova de Gaia (the upper deck has the best views of the city);
 - Visit the [Porto Cathedral (Sé do Porto)](https://www.google.com/maps/search/?api=1&query=S%C3%A9%20do%20Porto%2C%20Porto) and enjoy the view of the city from its terrace;
 - Take a day trip to Matosinhos, by the sea and easy to reach by Metro from Porto (blue line / line A to the "Matosinhos Sul" stop). Walk along the beach, check out the Anémona monument and visit the [Mercado Municipal de Matosinhos](https://www.google.com/maps/search/?api=1&query=Mercado%20Municipal%20de%20Matosinhos%2C%20Matosinhos);
@@ -17,6 +18,7 @@
 - Go for street food and a pub crawl in the evening;
 - Have lunch at Mercado Beira-Rio, with lots of local and international options;
 - Rent a bike in Vila Nova de Gaia and ride the coastal route south from Gaia to Valadares and Miramar (a 10-20 km trip, depending on how far you go and whether you ride back). There is good infrastructure along the way (dedicated cycle path and boardwalk sections by the sea) and the route passes a lot of beautiful beaches, such as [Praia de Lavadores](https://www.google.com/maps/search/?api=1&query=Praia%20de%20Lavadores%2C%20Vila%20Nova%20de%20Gaia), [Praia dos Salgueiros](https://www.google.com/maps/search/?api=1&query=Praia%20dos%20Salgueiros%2C%20Vila%20Nova%20de%20Gaia) and [Praia da Sereia da Costa Verde](https://www.google.com/maps/search/?api=1&query=Praia%20da%20Sereia%20da%20Costa%20Verde%2C%20Valadares). The ride ends at the [Capela do Senhor da Pedra](https://www.google.com/maps/search/?api=1&query=Capela%20do%20Senhor%20da%20Pedra%2C%20Miramar), a small chapel built on the rocks right on the beach, a great spot to stop before heading back;
+- Take a boat trip along the Douro river up to the Douro Valley and its wineries (quintas), with wine tastings and views of the terraced vineyards. Keep in mind that this is a full-day trip, around 12 hours on average, and that lunch is usually included;
 
 ## Places to Visit
 
